@@ -8,7 +8,7 @@
   - 连接MQTT服务器并订阅控制信道
   - 控制信道收到消息时，如果消息内容为 light=on ，则点亮 LED，否则关闭LED。
 
- 更多信息请参考 http://docs.woolyn.net.cn 
+ 更多信息请参考 http://doc.woolyn.net.cn 
 */
 
 #include <ESP8266WiFi.h>
